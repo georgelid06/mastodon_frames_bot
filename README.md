@@ -5,7 +5,7 @@ This Python script allows you to post frames from a film (or TV show) to a masto
 ## Prerequisites
 
 - Python 3
-- FFmpeg
+- [FFmpeg](https://ffmpeg.org/download.html)
 - A Mastodon account
 
 ## Setup
